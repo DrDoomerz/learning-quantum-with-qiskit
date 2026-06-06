@@ -5,7 +5,7 @@ This repo is my hands on journey into quantum computing using Qiskit.
 
 Instead of just reading theory, I tried to actually build everything I learned. Circuits, simulations, measurements, visualizations. The idea was simple. If I cannot implement it, I probably do not understand it.
 
-A lot of the flow loosely follows the Qiskit Pocket Guide by O Reilly. But this is not a copy of the book. It is me working through the ideas until they made sense.
+A lot of the stuff loosely follows the Qiskit Pocket Guide by O Reilly. But this is not a copy of the book. It is me working through the ideas until they made sense.
 
 ---
 
